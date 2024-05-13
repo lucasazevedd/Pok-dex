@@ -1,5 +1,3 @@
-# Aluno: Lucas Israel de Azevedo
-
 # Importa a biblioteca pandas
 import pandas as pd
 
